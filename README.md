@@ -65,7 +65,6 @@ DYNAMODB_URL="yourdburl"
 
 ### developer
 - Tayfun YAŞAR
-- tayfun@tayfunyasar.com
 
  -- outbox pattern
  -- fault tolerant 
