@@ -30,8 +30,8 @@ If the installation was successful, you should be able to run the following comm
 
 ## Install
 
-    $ git clone https://github.com/tayfunyasar/productservice
-    $ cd productservice
+    $ git clone https://github.com/tayfunyasar/nodejs-aws-docker
+    $ cd nodejs-aws-docker
     $ npm i
 
 ## Configure app
