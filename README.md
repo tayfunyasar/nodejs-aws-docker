@@ -1,6 +1,6 @@
-# Amaris Product Service Case
+# Product Service
 
-Amaris Coding Assignment project for Amaris Product Service
+Product Service
 
 ---
 ## Requirements
